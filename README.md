@@ -1,2 +1,2 @@
-# PEXI
-Visual PermissionEx groups and permission nodes index for MySQL-backends, written in PHP.
+# PEXI PermissionsEX Index
+Graphical PermissionsEx groups and permission nodes index for use with MySQL-backends, written in PHP.
